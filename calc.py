@@ -32,7 +32,8 @@ def mult(a, b):
 # b -- divisor
 def div(a, b):
     return a / b
-
+def mod(a, b):
+    return a % b
 
 # -------------------------------------------------------- #
 
